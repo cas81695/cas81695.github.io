@@ -86,7 +86,7 @@ a {
 }
 
 .container {
-    width: 1024px;
+    width: 960px;
     margin: 0 auto;
     padding: 0 auto;
 }
@@ -94,11 +94,12 @@ footer {
     text-align: center;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
+    color: #eeeeef;
 
 
 }
 input[type=text], select, textarea {
-    width: 900px; 
+    width: 100%; 
     padding: 12px; 
     border: 1px solid #ccc;
     border-radius: 4px; 
