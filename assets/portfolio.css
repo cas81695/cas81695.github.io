@@ -26,7 +26,7 @@ header {
     float: left;
     margin-right: 20px;
     padding: 20px;
-    border: 1px solid red;
+    border: 1px solid #4aaaa5;
 }
 
 .image-container h4 {
@@ -40,7 +40,7 @@ p {
 .container {
     width: 960px;
     margin: 0 auto;
-    margin-bottom: 20px;
+    margin-bottom: 0px;
 }
 
 .main-container {
@@ -51,7 +51,7 @@ main {
     background-color:#ffffff;
     width: 960px;
     margin: auto;
-    padding: auto;
+    padding: 5px;
 }
 nav {
     float: right;
@@ -62,13 +62,12 @@ nav {
 h1 {
     color:#4aaaa5;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    /* background-color:  */
     margin: 0;
     text-align: left;
     padding-top: 20px;
     padding-bottom: 20px;
     font-size: 34px;
-    border-bottom: 8px solid #4aaaa5;
+    border-bottom: 5px solid #4aaaa5;
 }
 .logo {
     margin: 10px;
@@ -96,5 +95,6 @@ footer {
     text-align: center;
     border-top: 8px solid #4aaaa5;
     background-color: #666666;
+    color: #eeeeef;
 
 }
